@@ -21,7 +21,7 @@ Files in this repo are numbered practice problems:
 ## Getting started
 
 1. Install JDK (Java Development Kit) 17 or newer.
-2. Open a terminal in this folder (`Java_StepByStep`).
+2. Open a terminal in this folder (`Java-WBSU`).
 3. Compile a program:
    - `javac Main.java`
 4. Run the program:
